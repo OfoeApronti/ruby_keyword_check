@@ -1,2 +1,4 @@
-# ruby_keyword_check
-Ruby string checks
+# Ruby search
+Demonstrating two ways of search
+1. Regular search 
+2. Regex search
